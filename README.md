@@ -52,8 +52,9 @@
 ---
 
 ## 📫 Contact Me  
-- 💼 LinkedIn: [Omar ElBadry](https://www.linkedin.com/in/omar-elbadry-data-analyst/)  
-- 📧 Email: Omarelbadry720@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-elbadry-data-analyst/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Omarelbadry720@gmail.com)
 
 ---
 

@@ -19,6 +19,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge)
 
 ### 💻 Programming  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)

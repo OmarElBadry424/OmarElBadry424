@@ -1,5 +1,5 @@
 # Hey 👋, I'm Omar El Badry  
-### 📊 Data Analyst | Power BI Developer  
+### 📊 Data Analyst 
 
 🚀 Turning data into insights that drive decisions  
 

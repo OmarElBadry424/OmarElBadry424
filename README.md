@@ -1,8 +1,8 @@
-# Hey 👋, I'm Omar El Badry  
-### 📊 Data Analyst 
+# Omar El Badry  
+### Data Analyst  
 
-🚀 Turning data into insights that drive decisions  
-
+Helping organizations make data-driven decisions by transforming raw data into actionable insights.  
+Specializing in Power BI, SQL, and data visualization to optimize business performance.
 ---
 
 ## 👨‍💻 About Me  

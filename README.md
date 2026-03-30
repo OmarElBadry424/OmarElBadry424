@@ -6,11 +6,11 @@
 ---
 
 ## 👨‍💻 About Me  
-- 📊 Data Analyst specialized in Power BI, SQL, and Excel  
-- 🧠 Strong in data cleaning, modeling, and visualization  
-- 📈 Passionate about solving real business problems using data  
-- 🎯 Currently seeking Data Analyst opportunities  
+-Microsoft Certified: Power BI Data Analyst Associate (PL-300) | Data Analyst specializing in FinTech and financial services, turning complex financial and transactional data into actionable insights.
 
+-Skilled in SQL, Python, Power BI (DAX, Power Query), Excel, ETL, data modeling, dashboard development, Business Intelligence, and financial analytics.
+
+-I help organizations transform data into clear, actionable decisions that drive growth, efficiency, and strategic impact.
 ---
 
 ## 🛠 Tech Stack  
